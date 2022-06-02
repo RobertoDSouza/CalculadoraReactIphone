@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "./static/css/main.ed224174.css",
+    "main.js": "./static/js/main.ad807770.js",
+    "static/media/iphon.jpg": "./static/media/iphon.04af72160a1b13ded43e.jpg",
+    "index.html": "./index.html",
+    "main.ed224174.css.map": "./static/css/main.ed224174.css.map",
+    "main.ad807770.js.map": "./static/js/main.ad807770.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed224174.css",
+    "static/js/main.ad807770.js"
+  ]
+}
